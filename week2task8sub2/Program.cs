@@ -6,7 +6,7 @@ namespace week2task8sub2
     class Program
     {
         static void Main(string[] args)
-        {
+        {//all even number from 0 to 10000
             int a = 0;
             do
             {

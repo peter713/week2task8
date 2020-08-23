@@ -10,7 +10,8 @@ namespace week2task8sub8_
             string str = Console.ReadLine();
             //string word = "Abcdefg";
             char[] array = str.ToCharArray();
-            Array.Reverse(array); 
+            Array.Reverse(array);
+            Console.Write("Reverse of your string: ");
             Console.WriteLine(array);
 
             Console.ReadKey();
